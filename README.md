@@ -63,7 +63,7 @@ Here are some of the projects I’ve worked on and continue to improve:
 
 I am constantly learning and growing as a developer! Currently, I am focusing on:
 
-- Improving my skills in **front-end development** using frameworks like **React** and **Node.js**.
+- Improving my skills in **front-end development** using frameworks like **Node.js**.
 - Mastering **full-stack** development with **Node.js** and **Django**.
 
 ---
