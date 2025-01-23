@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm V Reddy babu </h1>
-<u> <h3 align="center">A Aspiring web developer from India</h3> </u>
+<u> <h3 align="center">Aspiring web developer from India</h3> </u>
 
 - 🔭 I’m currently working on **Freelancing**
 
