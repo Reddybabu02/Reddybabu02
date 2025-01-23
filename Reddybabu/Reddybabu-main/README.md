@@ -34,7 +34,6 @@
   - GitHub
   - VS Code
   - MySQL
-  - 
 
 ---
 
